@@ -146,8 +146,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/anjali-0404">anjali-0404</a>
-</p>
