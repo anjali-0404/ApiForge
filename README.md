@@ -11,12 +11,6 @@
 
 APIForge is a modern mock API management platform that lets frontend and backend teams build, configure, and validate API endpoints in a beautiful dark-themed dashboard. Think **Postman + Supabase Dashboard**, purpose-built for mock infrastructure.
 
----
-
-![APIForge Dashboard](./preview.png)
-
----
-
 ## ✨ Features
 
 | Feature | Description |
