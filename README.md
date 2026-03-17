@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
 # ⚒️ APIForge
 
 > **Design, version, and test mock APIs — before your backend is ready.**
